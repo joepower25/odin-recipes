@@ -1,1 +1,1 @@
-# odin-recipes
+This is a small recipe website. This is demonstrating my ability to write basic HTML code including lists, paragraphs, images, etc.
